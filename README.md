@@ -2,5 +2,5 @@
 A collection of houdini tools
 
 
-- hf gradient
+- hf_gradient: Creates a gradient from a ramp parameter on a heightfield
 
