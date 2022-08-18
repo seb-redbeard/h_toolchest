@@ -1,5 +1,5 @@
 ## HF_gradient
 
-Generates gradient slopes on a heightfield, using a ramp paramater and an orient parameter. 
+Generates a linear gradient slope on a heightfield,
 
 <img src='/hda/hf/hf_gradient/help_hfgradient.jpg' width='1024'>
